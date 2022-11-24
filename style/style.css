@@ -1,0 +1,47 @@
+
+.fond{
+    position: relative;
+    width: 50%;
+    height: 600px;
+    background: url(/img/img1.jpg) no-repeat;
+    background-size: 100%;
+}
+.deux{
+    font-size: 30px;
+    position: absolute;
+    bottom: 0;
+    color: white;
+    padding: 10px;
+    width: 50%;
+    
+    background-color: rgb(132, 202, 179);
+}
+.view{
+    font-size: 15px;
+    text-transform: uppercase;
+    text-decoration: underline;
+    padding-top: 10px;
+}
+
+.trois{
+    padding: 30px;
+    position: absolute;
+    width: 40%;
+    top: 20px;
+    right: 20%;
+    background-color: white;
+    height: 70%;
+}
+.trois .a{
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+.img{
+    display: flex;
+}
+.img div:first-child{
+    margin-right: 20px;
+}
+button{
+    background-color: rgb(132, 202, 179) ;
+}
