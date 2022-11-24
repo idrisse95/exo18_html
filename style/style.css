@@ -28,7 +28,7 @@
     position: absolute;
     width: 40%;
     top: 20px;
-    right: 20%;
+    right: 10%;
     background-color: white;
     height: 70%;
 }
@@ -37,6 +37,7 @@
     letter-spacing: 2px;
 }
 .img{
+    padding-top: 20px;
     display: flex;
 }
 .img div:first-child{
@@ -46,4 +47,4 @@ button{
     background-color: rgb(132, 202, 179) ;
     border: none;
     margin-top: 20px;
-}
+    padding: 15px 25px}
